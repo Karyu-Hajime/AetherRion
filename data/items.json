@@ -1,0 +1,92 @@
+{
+    "ITEM001": {
+        "name": "Kiếm Lửa Sơ Cấp",
+        "category": "vũ khí",
+        "role": "Chiến Binh",
+        "tier": "sơ cấp",
+        "price": 500,
+        "description": "Kiếm rực cháy, tăng ATK +10.",
+        "effects": {"atk": 10}
+    },
+    "ITEM002": {
+        "name": "Áo Giáp Vàng Trung Cấp",
+        "category": "trang bị",
+        "role": "Chiến Binh",
+        "tier": "trung cấp",
+        "price": 800,
+        "description": "Áo giáp tăng DEF +15.",
+        "effects": {"def": 15}
+    },
+    "ITEM003": {
+        "name": "Thú Cưng Rồng",
+        "category": "pet",
+        "role": "all",
+        "tier": "cao cấp",
+        "price": 1000,
+        "description": "Rồng nhỏ hỗ trợ chiến đấu, tăng ATK +20.",
+        "effects": {"atk": 20, "power": 50}
+    },
+    "ITEM004": {
+        "name": "Sách Phép Hỏa Cầu",
+        "category": "sách kỹ năng",
+        "role": "Pháp Sư",
+        "tier": "sơ cấp",
+        "price": 600,
+        "description": "Học kỹ năng Hỏa Cầu, gây sát thương phép.",
+        "effects": {"skill": "Hỏa Cầu"}
+    },
+    "ITEM005": {
+        "name": "Thuốc Hồi Máu",
+        "category": "thuốc",
+        "role": "all",
+        "tier": "sơ cấp",
+        "price": 200,
+        "description": "Hồi 50 HP.",
+        "effects": {"hp": 50}
+    },
+    "ITEM006": {
+        "name": "Đá Tốc Độ",
+        "category": "đá quý",
+        "role": "Cung Thủ",
+        "tier": "trung cấp",
+        "price": 700,
+        "description": "Tăng SPEED +10.",
+        "effects": {"speed": 10}
+    },
+    "ITEM007": {
+        "name": "Bánh Mana",
+        "category": "đồ ăn",
+        "role": "all",
+        "tier": "sơ cấp",
+        "price": 150,
+        "description": "Hồi 30 Mana.",
+        "effects": {"mana": 30}
+    },
+    "ITEM008": {
+        "name": "Cung Bão Tố Tuyệt Phẩm",
+        "category": "vũ khí",
+        "role": "Cung Thủ",
+        "tier": "tuyệt phẩm",
+        "price": 2000,
+        "description": "Cung bắn ra mũi tên sét, tăng ATK +50, 10% gây choáng.",
+        "effects": {"atk": 50, "stun_chance": 0.1}
+    },
+    "ITEM009": {
+        "name": "Gậy Phép Băng",
+        "category": "vũ khí",
+        "role": "Pháp Sư",
+        "tier": "trung cấp",
+        "price": 900,
+        "description": "Gậy phép băng, tăng MAGIC +20.",
+        "effects": {"magic": 20}
+    },
+    "ITEM010": {
+        "name": "Áo Choàng Hắc Ám",
+        "category": "trang bị",
+        "role": "Thuật Sư",
+        "tier": "cao cấp",
+        "price": 1200,
+        "description": "Áo choàng tăng DEF +20, MANA +50.",
+        "effects": {"def": 20, "mana": 50}
+    }
+}

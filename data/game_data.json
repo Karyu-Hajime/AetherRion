@@ -1,0 +1,76 @@
+{
+    "users": {
+        "6759278861": {
+            "accounts": [
+                {
+                    "uid": "DRA924BBE42",
+                    "username": "Dragon",
+                    "password": "123456",
+                    "role": "Chi\u1ebfn Binh",
+                    "level": 1,
+                    "exp": 0,
+                    "max_exp": 100,
+                    "gold": 300,
+                    "inventory": [
+                        "ITEM005"
+                    ],
+                    "pets": [],
+                    "quests": [],
+                    "friends": [],
+                    "mail": [],
+                    "battles_won": 0,
+                    "checkin_count": 1,
+                    "stats": {
+                        "hp": 120,
+                        "atk": 20,
+                        "magic": 5,
+                        "def": 15,
+                        "speed": 10,
+                        "mana": 50
+                    },
+                    "skills": [],
+                    "last_checkin": "2025-05-11"
+                },
+                {
+                    "uid": "DRAD39CBA4A",
+                    "username": "Kael",
+                    "password": "123456",
+                    "role": "Ph\u00e1p S\u01b0",
+                    "level": 1,
+                    "exp": 0,
+                    "max_exp": 100,
+                    "gold": 100,
+                    "inventory": [],
+                    "pets": [],
+                    "quests": [],
+                    "friends": [],
+                    "mail": [
+                        {
+                            "title": "L\u1eddi M\u1eddi K\u1ebft B\u1ea1n",
+                            "content": "**Kael** (UID: DRAD39CBA4A) mu\u1ed1n k\u1ebft b\u1ea1n v\u1edbi b\u1ea1n!",
+                            "type": "friend_request",
+                            "from_uid": "DRAD39CBA4A"
+                        },
+                        {
+                            "type": "friend_request",
+                            "from": "DRAD39CBA4A",
+                            "from_username": "Kael",
+                            "content": "Kael mu\u1ed1n k\u1ebft b\u1ea1n v\u1edbi b\u1ea1n!"
+                        }
+                    ],
+                    "battles_won": 0,
+                    "checkin_count": 0,
+                    "stats": {
+                        "hp": 80,
+                        "atk": 5,
+                        "magic": 25,
+                        "def": 5,
+                        "speed": 8,
+                        "mana": 100
+                    },
+                    "skills": []
+                }
+            ]
+        }
+    }
+}
